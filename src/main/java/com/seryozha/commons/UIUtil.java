@@ -1,4 +1,4 @@
-package com.seryozha;
+package com.seryozha.commons;
 
 import lombok.NoArgsConstructor;
 import org.apache.commons.lang3.ArrayUtils;

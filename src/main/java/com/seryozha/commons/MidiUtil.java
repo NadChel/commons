@@ -1,4 +1,4 @@
-package com.seryozha;
+package com.seryozha.commons;
 
 import javax.sound.midi.MidiEvent;
 import javax.sound.midi.ShortMessage;

@@ -1,4 +1,4 @@
-package com.seryozha;
+package com.seryozha.commons;
 
 import org.aspectj.lang.JoinPoint;
 
