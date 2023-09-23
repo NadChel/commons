@@ -1,4 +1,4 @@
-package org.example.shared.utilities;
+package com.seryozha;
 
 import java.util.Collection;
 

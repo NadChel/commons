@@ -1,7 +1,6 @@
-package org.example.shared.utilities;
+package com.seryozha;
 
 import org.aspectj.lang.JoinPoint;
-import org.example.shared.ThrowingRunnable;
 
 import java.util.Arrays;
 import java.util.concurrent.Callable;
